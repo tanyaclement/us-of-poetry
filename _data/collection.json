@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "The United States of Poetry" ] },
+    "summary": { "en": [ "Produced by Bob Holman, The United States of Poetry aired on PBS from 1995-1996. " ] },
+    "items": [
+    ]
+}
