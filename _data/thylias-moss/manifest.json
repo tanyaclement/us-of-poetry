@@ -1,0 +1,39 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://zillingworth.github.io/us-of-poetry/thylias-moss/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Thylias Moss" ] },
+    "homepage": [
+      {
+        "id": "archive.org",
+        "type": "Text",
+        "label": { "en": [ "Thylias Moss" ] },
+        "format": "text/html"
+      }
+    ],
+    "items": [
+      {
+        "id": "https://zillingworth.github.io/us-of-poetry/thylias-moss/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 86,
+        "items": [
+          {
+            "id": "https://zillingworth.github.io/us-of-poetry/thylias-moss/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://zillingworth.github.io/us-of-poetry/thylias-moss/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia601603.us.archive.org/34/items/a-poem-by-thylias-moss-9-08-am-you-tube/A%20poem%20by%20Thylias%20Moss%20%289_08%20AM%29%20-%20YouTube.webm",
+                    "duration": 86
+                },
+                "target": "https://zillingworth.github.io/us-of-poetry/thylias-moss/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
