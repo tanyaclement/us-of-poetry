@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Thylias Moss
 manifest_name: thylias-moss
 permalink: thylias-moss
