@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![The United States of Poetry Smaller](https://user-images.githubusercontent.com/70542175/217381420-57e82669-505d-4b05-9554-cb15be146cee.png)
+<img align="right" src="https://user-images.githubusercontent.com/70542175/217381420-57e82669-505d-4b05-9554-cb15be146cee.png"/>
 <figure>
   <figcaption>Still from the credits of <i>The United States of Poetry </i> from producer Bob Holman's website http://bobholman.com/usop</figcaption>
 </figure>    
